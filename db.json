@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "NANH Bunsin",
+      "username": "nanh.bunsin",
+      "email": "nanh.bunsin@gmail.com",
+      "password": "bunsin@123",
+      "isAdmin": false,
+      "token": null,
+      "isLogin": false
+    }
+  
+  ],
+  "products":[
+    {
+      "id": "1",
+      "name": "Sample Product 1",
+      "description": "This is a sample product",
+      "price": 19.99,
+      "imageUrl": "http://placekitten.com/200/150"
+    },
+    {
+      "id": "2",
+      "name": "Sample Product 2",
+      "description": "This is a sample product",
+      "price": 19.99,
+      "imageUrl": "http://placekitten.com/200/150"
+    },
+    {
+      "id": "3",
+      "name": "Sample Product 3",
+      "description": "This is a sample product",
+      "price": 19.99,
+      "imageUrl": "http://placekitten.com/200/150"
+    }
+  ]
+}
