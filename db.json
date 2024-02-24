@@ -9,6 +9,51 @@
       "isAdmin": false,
       "token": null,
       "isLogin": false
+    },
+    {
+      "name": "sopheaktra",
+      "email": "sopheaktra@gmail.cm",
+      "passowrd": "12345678",
+      "isAdmin": false,
+      "token": null,
+      "isLogin": false,
+      "id": 2
+    },
+    {
+      "name": "Lina",
+      "email": "lina@gmail.com",
+      "passowrd": "1234567",
+      "isAdmin": false,
+      "token": null,
+      "isLogin": false,
+      "id": 3
+    },
+    {
+      "name": "Sokhan",
+      "email": "sokhan@gmail.com",
+      "passowrd": "1234567",
+      "isAdmin": false,
+      "token": null,
+      "isLogin": false,
+      "id": 4
+    },
+    {
+      "name": "Lyhour",
+      "email": "lyhour@gmail.com",
+      "passowrd": "1234567",
+      "isAdmin": false,
+      "token": null,
+      "isLogin": false,
+      "id": 5
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "passowrd": "1234",
+      "isAdmin": false,
+      "token": null,
+      "isLogin": false,
+      "id": 6
     }
   ],
   "products": [
